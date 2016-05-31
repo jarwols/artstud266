@@ -1,0 +1,6 @@
+{
+    "require": {
+        "schickling/git-s3": "dev-master"
+    },
+    "minimum stability": "dev"
+}
